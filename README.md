@@ -26,4 +26,5 @@ GIT!! Unfortunatelly out of the scope of this class, but please take a look at t
 | Session         | Notebook link         | Exercises |
 | :------------- | :------------- | ----| 
 | 1 | [Introduction to Python](http://nbviewer.jupyter.org/github/albahnsen/PracticalMachineLearningClass/blob/master/notebooks/01-IntroPython.ipynb)| [01.1 - Finding digits of Pi](http://nbviewer.jupyter.org/github/albahnsen/PracticalMachineLearningClass/blob/master/exercises/01.1-Find_Pi_digits.ipynb), [01.2 - OLS and Numpy](http://nbviewer.jupyter.org/github/albahnsen/PracticalMachineLearningClass/blob/master/exercises/01.2-OLSinNumpy.ipynb) |
+| 2 | [Introduction to Machine Learning](http://nbviewer.jupyter.org/github/albahnsen/PracticalMachineLearningClass/blob/master/notebooks/02-IntroMachineLearning.ipynb) | [02 - Churn Model](http://nbviewer.jupyter.org/github/albahnsen/PracticalMachineLearningClass/blob/master/exercises/02-Churn%20model.ipynb) |
  | |
