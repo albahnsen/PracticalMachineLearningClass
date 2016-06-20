@@ -45,4 +45,6 @@ GIT!! Unfortunatelly out of the scope of this class, but please take a look at t
 | 18 | [Support Vector Machines](http://nbviewer.jupyter.org/github/albahnsen/PracticalMachineLearningClass/blob/master/notebooks/18-SVM.ipynb) | [18 - Wine](http://nbviewer.jupyter.org/github/albahnsen/PracticalMachineLearningClass/blob/master/exercises/18_SVM_wine.ipynb) |
 | 19 | [Regularization](http://nbviewer.jupyter.org/github/albahnsen/PracticalMachineLearningClass/blob/master/notebooks/19_regularization.ipynb) | [19 - Wine V2](http://nbviewer.jupyter.org/github/albahnsen/PracticalMachineLearningClass/blob/master/exercises/19_regularization_wine.ipynb) |
 | 20 | [Cost-Sensitive Classification](http://nbviewer.jupyter.org/github/albahnsen/PracticalMachineLearningClass/blob/master/notebooks/20_CostSensitiveClassification.ipynb) | [20 - Churn](http://nbviewer.jupyter.org/github/albahnsen/PracticalMachineLearningClass/blob/master/exercises/20_CS_Churn.ipynb) |
-| 21 | [Intro Deep Learning](http://nbviewer.jupyter.org/github/albahnsen/PracticalMachineLearningClass/blob/master/notebooks/21_Intro_DeepLearning.ipynb) |  |
+| 21 | [Intro Deep Learning](http://nbviewer.jupyter.org/github/albahnsen/PracticalMachineLearningClass/blob/master/notebooks/21_Intro_DeepLearning.ipynb) |  
+|
+| 22 | [Model Deployment](http://nbviewer.jupyter.org/github/albahnsen/PracticalMachineLearningClass/blob/master/notebooks/22-ModelDeployment.ipynb) |  |
