@@ -7,6 +7,10 @@
 - github: [albahnsen](http://github.com/albahnsen)
 
 
+The use of statistical models in computer algorithms allows computers to make decisions and predictions, and to perform tasks that traditionally require human cognitive abilities. Deep learning is the interdisciplinary field at the intersection of statistics and computer science which develops such algorithnms and interweaves them with computer systems. It underpins many modern technologies, such as speech recognition, internet search, bioinformatics, computer vision, Amazon’s recommender system, Google’s driverless car and the most recent imaging systems for cancer diagnosis are all based on Deep Learning technology.
+
+This course on Machine Learning will explain how to build systems that learn and adapt using real-world applications. Some of the topics to be covered include machine learning, python data analysis, deep learning frameworks, natural language processing models and recurrent models. The course will be project-oriented, with emphasis placed on writing software implementations of learning algorithms applied to real-world problems, in particular, image analysis, image captioning, natural language pocessing, sentiment detection, among others.
+
 ## Requiriments 
 * [Python](http://www.python.org) version 3.5;
 * [Numpy](http://www.numpy.org), the core numerical extensions for linear algebra and multidimensional arrays;
@@ -21,29 +25,24 @@ A good, easy to install option that supports Mac, Windows, and Linux, and that h
 
 GIT!! Unfortunatelly out of the scope of this class, but please take a look at these [tutorials](https://help.github.com/articles/good-resources-for-learning-git-and-github/)
 
-## Sessions
+## Schedule
 
-| Session         | Notebook link         | Exercises |
-| :------------- | :------------- | ----| 
-| 1 | [Introduction to Python](http://nbviewer.jupyter.org/github/albahnsen/PracticalMachineLearningClass/blob/master/notebooks/01-IntroPython.ipynb)| [01.1 - Finding digits of Pi](http://nbviewer.jupyter.org/github/albahnsen/PracticalMachineLearningClass/blob/master/exercises/01.1-Find_Pi_digits.ipynb), [01.2 - OLS and Numpy](http://nbviewer.jupyter.org/github/albahnsen/PracticalMachineLearningClass/blob/master/exercises/01.2-OLSinNumpy.ipynb) |
-| 2 | [Introduction to Machine Learning](http://nbviewer.jupyter.org/github/albahnsen/PracticalMachineLearningClass/blob/master/notebooks/02-IntroMachineLearning.ipynb) | [02 - Churn Model](http://nbviewer.jupyter.org/github/albahnsen/PracticalMachineLearningClass/blob/master/exercises/02-Churn%20model.ipynb) |
-| 3 | [Pandas Data Frame](http://nbviewer.jupyter.org/github/albahnsen/PracticalMachineLearningClass/blob/master/notebooks/03-Pandas.ipynb) | [03 - Baby names](http://nbviewer.jupyter.org/github/albahnsen/PracticalMachineLearningClass/blob/master/exercises/03-BabyNames.ipynb) |
-| 4 | [Linear Regression](http://nbviewer.jupyter.org/github/albahnsen/PracticalMachineLearningClass/blob/master/notebooks/04-linear_regression.ipynb) | [04 - Bikes Rent](http://nbviewer.jupyter.org/github/albahnsen/PracticalMachineLearningClass/blob/master/exercises/04-BikesRent.ipynb) |
-| 5 | [Logistic Regression](http://nbviewer.jupyter.org/github/albahnsen/PracticalMachineLearningClass/blob/master/notebooks/05-logistic_regression.ipynb) | [05 - Titanic](http://nbviewer.jupyter.org/github/albahnsen/PracticalMachineLearningClass/blob/master/exercises/05-Titanic.ipynb) |
-| 6 | [Data preparation and Model Evaluation](http://nbviewer.jupyter.org/github/albahnsen/PracticalMachineLearningClass/blob/master/notebooks/06-data_preparation_evaluation_update.ipynb) | [06 - Titanic V2](http://nbviewer.jupyter.org/github/albahnsen/PracticalMachineLearningClass/blob/master/exercises/06-Titanic_cross_validation.ipynb) |
-| 7 | [Kaggle Competitions](https://github.com/justmarkham/DAT8/raw/master/slides/16_kaggle.pdf) | [07 - Titanic Kaggle Competition](http://nbviewer.jupyter.org/github/albahnsen/PracticalMachineLearningClass/blob/master/exercises/07-Kaggle.Competition.ipynb) |
-| 8 | [Feature Selection](http://nbviewer.jupyter.org/github/albahnsen/PracticalMachineLearningClass/blob/master/notebooks/08-feature_selection.ipynb) | [08 - Titanic V3](http://nbviewer.jupyter.org/github/albahnsen/PracticalMachineLearningClass/blob/master/exercises/08-Titanic_feature_selection.ipynb) |
-| 9 | [Naive Bayes](http://nbviewer.jupyter.org/github/albahnsen/PracticalMachineLearningClass/blob/master/notebooks/09-Naive_Bayes.ipynb) | [09 - Yelp Reviews](http://nbviewer.jupyter.org/github/albahnsen/PracticalMachineLearningClass/blob/master/exercises/09-Yelp_reviews.ipynb) |
-| 10 | [KNN](http://nbviewer.jupyter.org/github/albahnsen/PracticalMachineLearningClass/blob/master/notebooks/10-KNN.ipynb) | [10 - NBA Stats](http://nbviewer.jupyter.org/github/albahnsen/PracticalMachineLearningClass/blob/master/exercises/10-nba.ipynb) |
-| 11 | [Information Retrieval](http://nbviewer.jupyter.org/github/albahnsen/PracticalMachineLearningClass/blob/master/notebooks/11-Information_retrieval.ipynb) | [11 - Mashable](http://nbviewer.jupyter.org/github/albahnsen/PracticalMachineLearningClass/blob/master/exercises/11-mashable_infor_extraction.ipynb) |
-| 12 | [Natural Language Processing](http://nbviewer.jupyter.org/github/albahnsen/PracticalMachineLearningClass/blob/master/notebooks/12-NLP.ipynb) |  |
-| 13 | [Decision Trees](http://nbviewer.jupyter.org/github/albahnsen/PracticalMachineLearningClass/blob/master/notebooks/13_decision_trees.ipynb) | [13 - Bike Sharing](http://nbviewer.jupyter.org/github/albahnsen/PracticalMachineLearningClass/blob/master/exercises/13_bikeshare_exercise.ipynb) |
-| 14 | | [14 - Kaggle Competition - Mashable](http://nbviewer.jupyter.org/github/albahnsen/PracticalMachineLearningClass/blob/master/exercises/14-Kaggle%20Competition.ipynb) |
-| 15 | [Unbalance Datasets](http://nbviewer.jupyter.org/github/albahnsen/PracticalMachineLearningClass/blob/master/notebooks/15_Unbalanced_Datasets.ipynb) | [15 - Fraud Detection](http://nbviewer.jupyter.org/github/albahnsen/PracticalMachineLearningClass/blob/master/exercises/15_fraud_detection.ipynb) |
-| 16 | [Ensemble Methods - Bagging](http://nbviewer.jupyter.org/github/albahnsen/PracticalMachineLearningClass/blob/master/notebooks/16_EnsembleMethods_Bagging.ipynb) | [16 - MashableV1](http://nbviewer.jupyter.org/github/albahnsen/PracticalMachineLearningClass/blob/master/exercises/16_ensemble_bagging.ipynb) |
-| 17 | [Ensemble Methods - Bagging cont & Boosting](http://nbviewer.jupyter.org/github/albahnsen/PracticalMachineLearningClass/blob/master/notebooks/17_EnsembleMethods_cont.ipynb) | [17 - MashableV2](http://nbviewer.jupyter.org/github/albahnsen/PracticalMachineLearningClass/blob/master/exercises/17_ensemble_bagging%26boosting.ipynb) |
-| 18 | [Support Vector Machines](http://nbviewer.jupyter.org/github/albahnsen/PracticalMachineLearningClass/blob/master/notebooks/18-SVM.ipynb) | [18 - Wine](http://nbviewer.jupyter.org/github/albahnsen/PracticalMachineLearningClass/blob/master/exercises/18_SVM_wine.ipynb) |
-| 19 | [Regularization](http://nbviewer.jupyter.org/github/albahnsen/PracticalMachineLearningClass/blob/master/notebooks/19_regularization.ipynb) | [19 - Wine V2](http://nbviewer.jupyter.org/github/albahnsen/PracticalMachineLearningClass/blob/master/exercises/19_regularization_wine.ipynb) |
-| 20 | [Cost-Sensitive Classification](http://nbviewer.jupyter.org/github/albahnsen/PracticalMachineLearningClass/blob/master/notebooks/20_CostSensitiveClassification.ipynb) | [20 - Churn](http://nbviewer.jupyter.org/github/albahnsen/PracticalMachineLearningClass/blob/master/exercises/20_CS_Churn.ipynb) |
-| 21 | [Intro Deep Learning](http://nbviewer.jupyter.org/github/albahnsen/PracticalMachineLearningClass/blob/master/notebooks/21_Intro_DeepLearning.ipynb) |  
-| 22 | [Model Deployment](http://nbviewer.jupyter.org/github/albahnsen/PracticalMachineLearningClass/blob/master/notebooks/22-ModelDeployment.ipynb) |  |
+| Date | Session         | Notebooks/Presentations          | Exercises |
+| :----| :----| :------------- | :------------- | 
+| January 21st | Introduction to python and ML | <ul><li>[1 - Intro to ML]() </li> <li>[2 - Intro to Python for data analysis]() </li></ul> | <ul><li>[E1 - Data Science Overview]() </li><li>[E2 - Python Text Analysis]() </li>  </ul> | 
+| January 28th | Linear Models | <ul><li>[3 - Linear Regression]() </li> <li>[4 - Logistic Regression]() </li>  </ul> | <ul><li>[E3 - Supervised vs Unsupervised Overview]() </li> <li>[E4 - Linear Models]() </li> </ul> | 
+| February 4th | Machine Learning Systems | <ul><li>[5 - Data preparation]() </li> <li>[6 - Model Evaluation]() </li>  <li>[7 - Model Deployment]() </li></ul> | <ul><li>[P1 - Survival Prediction API]() </li> </ul> | 
+| February 11st | Naive Bayes & Decision Trees  | <ul><li>[8 - Naive Bayes]() </li><li>[9 - Decision Tress]() </li></ul> | <ul><li>[E5 - Decision Trees Overview]() </li> <li>[E6 - ]() </li></ul> | 
+| February 18th |  Ensembles | <ul><li>[10 - Bagging]() </li><li>[11 - Bagging]() </li><li>[12 - Boosting]() </li></ul> | <ul><li>[E7 - Best Ensemble Overview]() </li><li>[E8 - ]() </li> </ul> | 
+| February 25th |  Feature Engineering | <ul><li>[13 - Feature Engineering]() </li></ul> | <ul><li>[E9 - Importance of Feature Engineering Overview]() </li> <li>[E10 - ]() </li> </ul> | 
+| March 4th | Unbalanced Datasets  | <ul><li>[14 - Unbalanced Datasets]() </li></ul> | <ul><li>[E11 - Real World Datasets Overview]() </li> <li>[E12 - Fraud Detection]() </li></ul> | 
+| March 11th |  Other Supervised Methods | <ul><li>[- KNN]() </li><li>[- Support Vector Machines]() </li> <li>[- Regularization]() </li></ul> | <ul><li>[P2 - Classification API]() </li> </ul> | 
+| March 18th |  Un-Supervised Learning | <ul><li>[- PCA]() </li></ul> | <ul><li>[]() </li> </ul> | 
+| April 1st |  Outlier Detection | <ul><li>[ - Anomaly Detection]() </li><li>[ - Isolation Forests]() </li></ul> | <ul><li>[]() </li> </ul> | 
+| April 3rd |  Information Retrieval | <ul><li>[ - Data Scrapping]() </li><li>[ - Social Networks APIs]() </li></ul> | <ul><li>[]() </li> </ul> | 
+| April 8th |  Natural Language Processing | <ul><li>[]() </li></ul> | <ul><li>[P3 - NLP Cheating Detection API]() </li> </ul> | 
+| April 22nd | Sentiment Analysis  | <ul><li>[]() </li></ul> | <ul><li>[]() </li> </ul> | 
+| April 24th |  Hyperparameters Tuning | <ul><li>[]() </li></ul> | <ul><li>[]() </li> </ul> | 
+| May 6th |  Introduction to Deep Learning | <ul><li>[]() </li></ul> | <ul><li>[]() </li> </ul> | 
+| May TBD | Final Project Presentation  | <ul><li>[]() </li></ul> | <ul><li>[P4 - Kaggle Competition]() </li> </ul> | 
+
