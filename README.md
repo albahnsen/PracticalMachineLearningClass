@@ -27,22 +27,42 @@ GIT!! Unfortunatelly out of the scope of this class, but please take a look at t
 
 ## Schedule
 
+### Supervised Machine Learning
 | Date | Session         | Notebooks/Presentations          | Exercises |
 | :----| :----| :------------- | :------------- | 
 | January 21st | Introduction to python and ML | <ul><li>[1 - Intro to ML]() </li> <li>[2 - Intro to Python for data analysis]() </li></ul> | <ul><li>[E1 - Data Science Overview]() </li><li>[E2 - Python Text Analysis]() </li>  </ul> | 
 | January 28th | Linear Models | <ul><li>[3 - Linear Regression]() </li> <li>[4 - Logistic Regression]() </li>  </ul> | <ul><li>[E3 - Supervised vs Unsupervised Overview]() </li> <li>[E4 - Linear Models]() </li> </ul> | 
-| February 4th | Machine Learning Systems | <ul><li>[5 - Data preparation]() </li> <li>[6 - Model Evaluation]() </li>  <li>[7 - Model Deployment]() </li></ul> | <ul><li>[P1 - Survival Prediction API]() </li> </ul> | 
-| February 11st | Naive Bayes & Decision Trees  | <ul><li>[8 - Naive Bayes]() </li><li>[9 - Decision Tress]() </li></ul> | <ul><li>[E5 - Decision Trees Overview]() </li> <li>[E6 - ]() </li></ul> | 
-| February 18th |  Ensembles | <ul><li>[10 - Bagging]() </li><li>[11 - Bagging]() </li><li>[12 - Boosting]() </li></ul> | <ul><li>[E7 - Best Ensemble Overview]() </li><li>[E8 - ]() </li> </ul> | 
-| February 25th |  Feature Engineering | <ul><li>[13 - Feature Engineering]() </li></ul> | <ul><li>[E9 - Importance of Feature Engineering Overview]() </li> <li>[E10 - ]() </li> </ul> | 
-| March 4th | Unbalanced Datasets  | <ul><li>[14 - Unbalanced Datasets]() </li></ul> | <ul><li>[E11 - Real World Datasets Overview]() </li> <li>[E12 - Fraud Detection]() </li></ul> | 
-| March 11th |  Other Supervised Methods | <ul><li>[- KNN]() </li><li>[- Support Vector Machines]() </li> <li>[- Regularization]() </li></ul> | <ul><li>[P2 - Classification API]() </li> </ul> | 
-| March 18th |  Un-Supervised Learning | <ul><li>[- PCA]() </li></ul> | <ul><li>[]() </li> </ul> | 
-| April 1st |  Outlier Detection | <ul><li>[ - Anomaly Detection]() </li><li>[ - Isolation Forests]() </li></ul> | <ul><li>[]() </li> </ul> | 
-| April 3rd |  Information Retrieval | <ul><li>[ - Data Scrapping]() </li><li>[ - Social Networks APIs]() </li></ul> | <ul><li>[]() </li> </ul> | 
-| April 8th |  Natural Language Processing | <ul><li>[]() </li></ul> | <ul><li>[P3 - NLP Cheating Detection API]() </li> </ul> | 
-| April 22nd | Sentiment Analysis  | <ul><li>[]() </li></ul> | <ul><li>[]() </li> </ul> | 
-| April 24th |  Hyperparameters Tuning | <ul><li>[]() </li></ul> | <ul><li>[]() </li> </ul> | 
-| May 6th |  Introduction to Deep Learning | <ul><li>[]() </li></ul> | <ul><li>[]() </li> </ul> | 
-| May TBD | Final Project Presentation  | <ul><li>[]() </li></ul> | <ul><li>[P4 - Kaggle Competition]() </li> </ul> | 
+| February 4th | SVM & Decision Trees  | <ul><li>[5 - SVM]() </li><li>[6 - Decision Tress]() </li><li>[7 - Regularization]() </li></ul> | <ul><li>[E5 - Decision Trees Overview]() </li> <li>[E6 - ]() </li></ul> | 
+| February 11th | Machine Learning as a Service | <ul>  <li>[8 - Model Deployment]() </li></ul> | <ul><li>[P1 - Survival Prediction API]() </li> </ul> | 
+| February 18th |  Ensembles | <ul><li>[9 - Bagging]() </li><li>[10 - Random Forest]() </li><li>[11 - Boosting]() </li></ul> | <ul><li>[E7 - Best Ensemble Overview]() </li><li>[E8 - ]() </li> </ul> | 
+
+ 
+ ### Machine Learning Systems
+| Date | Session         | Notebooks/Presentations          | Exercises |
+| :----| :----| :------------- | :------------- | 
+| February 25th |  Feature Engineering | <ul><li>[12 - Data preparation]() </li> <li>[13 - Feature Engineering]() </li> </ul> | <ul><li>[E9 - Importance of Feature Engineering Overview]() </li> <li>[E10 - ]() </li> </ul> | 
+| March 4th | Unbalanced Datasets  | <ul><li>[14 - Unbalanced Datasets]() </li></ul> | <ul><li>[E11 - Real World Datasets Overview]() </li> <li>[E12 - Fraud Detection]() </li>  </ul> | 
+| March 11th |  Model Evaluation | <ul><li>[15 - Model Evaluation]() </li></ul> | <ul> <li>[P2 - Classification API]() </li></ul> | 
+
+
+ ### Natural Language Processing
+| Date | Session         | Notebooks/Presentations          | Exercises |
+| :----| :----| :------------- | :------------- | 
+| March 18th |  Information Retrieval | <ul><li>[15 - Data Scrapping]() </li><li>[16 - Social Networks APIs]() </li></ul> | <ul><li>[]() </li> </ul> | 
+| April 1st | Natural Language Processing  | <ul><li>[17 - Natural Language Processing]() </li></ul> | <ul><li>[]() </li> </ul> | 
+| April 3rd |  Sentiment Analysis | <ul><li>[18 - Sentiment Analysis]() </li></ul> | <ul><li>[P3 - NLP Cheating Detection API]() </li>  </ul> | 
+
+ ### Advanced Topics in Machine Learning
+| Date | Session         | Notebooks/Presentations          | Exercises |
+| :----| :----| :------------- | :------------- | 
+| April 8th | Outlier Detection | <ul><li>[19 - Anomaly Detection]() </li><li>[20 - Isolation Forests]() </li></ul> | <ul><li>[]() </li></ul> | 
+| April 22nd | Neural Networks | <ul><li>[21 - MLP and Backpropagation]() </li></ul> | <ul><li>[]() </li> </ul> | 
+| April 24th |  Introduction to Deep Learning | <ul><li>[22 - Introduction to Deep Learning]() </li></ul> | <ul><li>[]() </li> </ul> | 
+| May 6th |  Recurrent Neural Networks| <ul><li>[23 - LSTM]() </li></ul> | <ul><li>[]() </li> </ul> | 
+
+
+### Final Project Presentation 
+
+* [P4 - Kaggle Competition]() 
+
 
