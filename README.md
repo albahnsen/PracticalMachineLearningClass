@@ -25,6 +25,12 @@ A good, easy to install option that supports Mac, Windows, and Linux, and that h
 
 GIT!! Unfortunatelly out of the scope of this class, but please take a look at these [tutorials](https://help.github.com/articles/good-resources-for-learning-git-and-github/)
 
+## Evaluation
+
+* 30% Exercises
+* 50% Projects
+* 20% Final Project
+
 ## Schedule
 
 ### Supervised Machine Learning
