@@ -46,7 +46,7 @@ GIT!! Unfortunatelly out of the scope of this class, but please take a look at t
  ### Machine Learning Systems
 | Date | Session         | Notebooks/Presentations          | Exercises |
 | :----| :----| :------------- | :------------- | 
-| March 4th |  Feature Engineering | <ul><li>[12 - Data preparation]() </li> <li>[13 - Feature Engineering]() </li> </ul> | <ul><li>[E9 - Importance of Feature Engineering Overview]() </li> <li>[E10 - ]() </li> </ul> | 
+| March 4th |  Feature Engineering | <ul><li>[14 - Data preparation](https://nbviewer.jupyter.org/github/albahnsen/PracticalMachineLearningClass/blob/master/notebooks/14-data_preparation.ipynb) </li> <li>[15 - Feature Engineering]() </li> </ul> | <ul><li>[E12 - Importance of Feature Engineering Overview]() </li> <li>[E13 - Categorical Encoding ](https://nbviewer.jupyter.org/github/albahnsen/PracticalMachineLearningClass/blob/master/exercises/E13-CategoricalEncoding.ipynb) </li> </ul> | 
 | March 11th | Unbalanced Datasets  | <ul><li>[14 - Unbalanced Datasets]() </li></ul> | <ul><li>[E11 - Real World Datasets Overview]() </li> <li>[E12 - Fraud Detection]() </li>  </ul> | 
 | March 18th |  Model Evaluation | <ul><li>[15 - Model Evaluation]() </li></ul> | <ul> <li>[P2 - Classification API]() </li></ul> | 
 
