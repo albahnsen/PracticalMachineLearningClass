@@ -50,16 +50,13 @@ GIT!! Unfortunatelly out of the scope of this class, but please take a look at t
  ### Natural Language Processing
 | Date | Session         | Notebooks/Presentations          | Exercises |
 | :----| :----| :------------- | :------------- | 
-| March 18th |  Information Retrieval | <ul><li>[15 - Data Scrapping]() </li><li>[16 - Social Networks APIs]() </li></ul> | <ul><li>[]() </li> </ul> | 
-| April 1st | Natural Language Processing  | <ul><li>[17 - Natural Language Processing]() </li></ul> | <ul><li>[]() </li> </ul> | 
-| April 3rd |  Sentiment Analysis | <ul><li>[18 - Sentiment Analysis]() </li></ul> | <ul><li>[P3 - NLP Cheating Detection API]() </li>  </ul> | 
-
+| April 1st | Natural Language Processing  | <ul><li>[17 - Natural Language Processing]() </li></ul> | <ul><li>[P2 - NLP Movies Analysis API]() </li> </ul> | 
+| April 8th |  Sentiment Analysis | <ul><li>[18 - Sentiment Analysis]() </li></ul> | <ul><li>[]() </li>  </ul> |
+| April 22nd | Project Presentations  |  | | 
  ### Advanced Topics in Machine Learning
 | Date | Session         | Notebooks/Presentations          | Exercises |
 | :----| :----| :------------- | :------------- | 
-| April 8th | Outlier Detection | <ul><li>[19 - Anomaly Detection]() </li><li>[20 - Isolation Forests]() </li></ul> | <ul><li>[]() </li></ul> | 
-| April 22nd | Neural Networks | <ul><li>[21 - MLP and Backpropagation]() </li></ul> | <ul><li>[]() </li> </ul> | 
-| April 24th |  Introduction to Deep Learning | <ul><li>[22 - Introduction to Deep Learning]() </li></ul> | <ul><li>[]() </li> </ul> | 
+| April 22th |  Introduction to Deep Learning | <ul><li>[21 - MLP and Backpropagation]() </li></ul> <ul><li>[22 - Introduction to Deep Learning]() </li></ul> | <ul><li>[]() </li> </ul> | 
 | May 6th |  Recurrent Neural Networks| <ul><li>[23 - LSTM]() </li></ul> | <ul><li>[]() </li> </ul> | 
 
 
