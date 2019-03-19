@@ -62,6 +62,6 @@ GIT!! Unfortunatelly out of the scope of this class, but please take a look at t
 
 ### Final Project Presentation 
 
-* [P4 - Kaggle Competition]() 
+* [P3 - Kaggle Competition]() 
 
 
