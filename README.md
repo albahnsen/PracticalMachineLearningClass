@@ -50,14 +50,14 @@ GIT!! Unfortunatelly out of the scope of this class, but please take a look at t
  ### Natural Language Processing
 | Date | Session         | Notebooks/Presentations          | Exercises |
 | :----| :----| :------------- | :------------- | 
-| April 1st | Natural Language Processing  | <ul><li>[17 - Natural Language Processing]() </li></ul> | <ul><li>[P2 - NLP Movies Analysis API]() </li> </ul> | 
-| April 8th |  Sentiment Analysis | <ul><li>[18 - Sentiment Analysis]() </li></ul> | <ul><li>[]() </li>  </ul> |
+| April 1st | Natural Language Processing  | <ul><li>[16 - Natural Language Processing]() </li></ul> | <ul><li>[P2 - NLP Movies Analysis API]() </li> </ul> | 
+| April 8th |  Sentiment Analysis | <ul><li>[17 - Sentiment Analysis]() </li></ul> | <ul><li>[]() </li>  </ul> |
 | April 22nd | Project Presentations  |  | | 
  ### Advanced Topics in Machine Learning
 | Date | Session         | Notebooks/Presentations          | Exercises |
 | :----| :----| :------------- | :------------- | 
-| April 29th |  Introduction to Deep Learning | <ul><li>[21 - MLP and Backpropagation]() </li></ul> <ul><li>[22 - Introduction to Deep Learning]() </li></ul> | <ul><li>[]() </li> </ul> | 
-| May 6th |  Recurrent Neural Networks| <ul><li>[23 - LSTM]() </li></ul> | <ul><li>[]() </li> </ul> | 
+| April 29th |  Introduction to Deep Learning | <ul><li>[18 - MLP and Backpropagation]() </li></ul> <ul><li>[19 - Introduction to Deep Learning]() </li></ul> | <ul><li>[]() </li> </ul> | 
+| May 6th |  Recurrent Neural Networks| <ul><li>[20 - LSTM]() </li></ul>  <ul><li>[21 - CNN]() </li></ul> | <ul><li>[]() </li> </ul> | 
 
 
 ### Final Project Presentation 
