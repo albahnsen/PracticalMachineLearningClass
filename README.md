@@ -56,7 +56,7 @@ GIT!! Unfortunatelly out of the scope of this class, but please take a look at t
  ### Advanced Topics in Machine Learning
 | Date | Session         | Notebooks/Presentations          | Exercises |
 | :----| :----| :------------- | :------------- | 
-| April 22th |  Introduction to Deep Learning | <ul><li>[21 - MLP and Backpropagation]() </li></ul> <ul><li>[22 - Introduction to Deep Learning]() </li></ul> | <ul><li>[]() </li> </ul> | 
+| April 29th |  Introduction to Deep Learning | <ul><li>[21 - MLP and Backpropagation]() </li></ul> <ul><li>[22 - Introduction to Deep Learning]() </li></ul> | <ul><li>[]() </li> </ul> | 
 | May 6th |  Recurrent Neural Networks| <ul><li>[23 - LSTM]() </li></ul> | <ul><li>[]() </li> </ul> | 
 
 
