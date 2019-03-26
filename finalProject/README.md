@@ -1,4 +1,4 @@
-## Applied Deep Learning Final Project
+## Practical Machine Learning -- Final Project
 
 # Movie Genre Classification
 
