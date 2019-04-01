@@ -50,14 +50,14 @@ GIT!! Unfortunatelly out of the scope of this class, but please take a look at t
  ### Natural Language Processing
 | Date | Session         | Notebooks/Presentations          | Exercises |
 | :----| :----| :------------- | :------------- | 
-| April 1st | Natural Language Processing  | <ul><li>[16 - Natural Language Processing]() </li></ul> | <ul><li>[P2 - NLP Movies Analysis API]() </li> </ul> | 
-| April 8th |  Sentiment Analysis | <ul><li>[17 - Sentiment Analysis]() </li></ul> | <ul><li>[]() </li>  </ul> |
+| April 1st | Natural Language Processing  | <ul><li>[16 - Introduction to NLP](https://github.com/albahnsen/PracticalMachineLearningClass/blob/master/notebooks/16-IntroNLP.pdf) </li></ul>| <ul><li>[17 - Introduction to NLP II ](https://nbviewer.jupyter.org/github/albahnsen/PracticalMachineLearningClass/blob/master/notebooks/17-NaturalLanguageProcessing.ipynb) </li></ul> | <ul><li>[P2 - NLP Movies Analysis API](https://nbviewer.jupyter.org/github/albahnsen/PracticalMachineLearningClass/blob/master/exercises/P2-MovieGenrePrediction.ipynb) </li> </ul> | 
+| April 8th |  Sentiment Analysis | <ul><li>[18 - Sentiment Analysis](https://github.com/albahnsen/PracticalMachineLearningClass/blob/master/notebooks/18-IntroNLP_II.pdf) </li></ul> | <ul><li>[]() </li>  </ul> |
 | April 22nd | Project Presentations  |  | | 
  ### Advanced Topics in Machine Learning
 | Date | Session         | Notebooks/Presentations          | Exercises |
 | :----| :----| :------------- | :------------- | 
 | April 29th |  Introduction to Deep Learning | <ul><li>[18 - MLP and Backpropagation]() </li></ul> <ul><li>[19 - Introduction to Deep Learning]() </li></ul> | <ul><li>[]() </li> </ul> | 
-| May 6th |  Recurrent Neural Networks| <ul><li>[20 - LSTM]() </li></ul>  <ul><li>[21 - CNN]() </li></ul> | <ul><li>[]() </li> </ul> | 
+| May 6th |  Introduction to Deep Learning II| <ul><li>[20 - LSTM]() </li></ul>  <ul><li>[21 - CNN]() </li></ul> | <ul><li>[]() </li> </ul> | 
 
 
 ### Final Project Presentation 
