@@ -56,7 +56,7 @@ GIT!! Unfortunatelly out of the scope of this class, but please take a look at t
  ### Advanced Topics in Machine Learning
 | Date | Session         | Notebooks/Presentations          | Exercises |
 | :----| :----| :------------- | :------------- | 
-| April 29th |  Introduction to Deep Learning | <ul><li>[18 - MLP and Backpropagation]() </li></ul> <ul><li>[19 - Introduction to Deep Learning]() </li></ul> | <ul><li>[]() </li> </ul> | 
+| April 29th |  Introduction to Deep Learning | <ul><li>[19 - Introduction to Neural Networks - MLP ](https://nbviewer.jupyter.org/github/albahnsen/PracticalMachineLearningClass/blob/master/notebooks/19-IntroductionDeepLearningMLP.ipynb) </li></ul> <ul><li>[20 - Deep Learning in keras](https://nbviewer.jupyter.org/github/albahnsen/PracticalMachineLearningClass/blob/master/notebooks/20-DeepLearning_keras.ipynb) </li></ul> | <ul><li>[E19 - Neural Networks Fundamentation](https://nbviewer.jupyter.org/github/albahnsen/PracticalMachineLearningClass/blob/master/exercises/E19-NeuralNetworksFundamentation.ipynb) </li> </ul> <ul><li>[E20 - Neural Networks in Keras](https://nbviewer.jupyter.org/github/albahnsen/PracticalMachineLearningClass/blob/master/exercises/E20-NeuralNetworksKeras.ipynb) </li> </ul> | 
 | May 6th |  Introduction to Deep Learning II| <ul><li>[20 - LSTM]() </li></ul>  <ul><li>[21 - CNN]() </li></ul> | <ul><li>[]() </li> </ul> | 
 
 
